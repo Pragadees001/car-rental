@@ -113,10 +113,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - The project report is written in Microsoft Word.
 - The project repot has flow chart, ERD, and UML diagram.
 
-##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+.
 
 ## Demo
 
@@ -125,7 +122,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Authors 
 
-- [Pragadeeswaran](https://github.com/Varshithvhegde)
+- [Pragadeeswaran]
 
 
 ## Show your support
